@@ -1,4 +1,4 @@
-
+# Revised with assistance from ChatGPT
 
 """
 Make GT graph JSONS for all regions.
