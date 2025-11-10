@@ -1,4 +1,4 @@
-# Credit: ChatGPT
+
 
 """
 Make GT graph JSONS for all regions.

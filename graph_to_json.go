@@ -1,4 +1,4 @@
-// Credit: ChatGPT
+// Revised with assistance from ChatGPT
 
 package main
 
