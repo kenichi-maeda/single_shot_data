@@ -1,4 +1,4 @@
-// Revised with assistance from ChatGPT
+// Written with assistance from ChatGPT
 
 package main
 
